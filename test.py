@@ -1,5 +1,5 @@
 print("sample project to test square")
-
+print("testing")
 number=input("Enter the number")
 
 number=number*number
