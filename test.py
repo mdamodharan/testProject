@@ -1,5 +1,5 @@
 print("sample project to test square")
-
+print("test webhok")
 number=input("Enter the number")
 
 number=number*number
